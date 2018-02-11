@@ -1,6 +1,6 @@
 # JavaScript NPM validation - Security
 
-Many JavaScript developers are using NPM (Node Package Manager); since NPM include public packages that can be uploaded by any user, it becomes a secrity risk.
+Many JavaScript developers are using NPM (Node Package Manager); since NPM include public packages that can be uploaded by any user, it becomes a security risk.
 
 This small application here will list all the packages inside 'package.json' file for the entire source tree. 
 The application will list all the imported packages with the number of total downloads for each package. 
@@ -9,7 +9,7 @@ At that point, any package that has a relatively small number of downloads is su
 The application can be used as a commit\push Git hook or as a post-checkout code validation step within a pipeline.
 
 Usage: copy NPMvalidate.py and NPMUtilities.py to the root of the source tree. execute 'python NPMvalidate.py' 
-the application is developed for pythin 3.*
+the application is developed for python 3
 
 
 
