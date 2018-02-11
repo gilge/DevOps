@@ -1,6 +1,6 @@
 # JavaScript NPM validateion - Security
 
-Many JavaScript developers are using NPM; since NPM include public packages that can be uploaded by any user, it becomes a secrity risk.
+Many JavaScript developers are using NPM (Node Package Manager); since NPM include public packages that can be uploaded by any user, it becomes a secrity risk.
 
 This small application here will list all the packages inside 'package.json' file for the entire source tree. 
 The application will list all the imported packages with the number of total downloads for each package. 
