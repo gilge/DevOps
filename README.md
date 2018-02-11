@@ -17,40 +17,78 @@ the application is developed for pythin 3.*
 List of example "fake" js packages:
 
 babelcli: 42
+
 cross-env.js: 43
+
 crossenv: 679
+
 d3.js: 72
+
 fabric-js: 46
+
 ffmepg: 44
+
 gruntcli: 67
+
 http-proxy.js: 41
+
 jquery.js: 136
+
 mariadb: 92
+
 mongose: 196
+
 mssql-node: 46
+
 mssql.js: 48
+
 mysqljs: 77
+
 node-fabric: 87
+
 node-opencv: 94
+
 node-opensl: 40
+
 node-openssl: 29
+
 node-sqlite: 61
+
 node-tkinter: 39
+
 nodecaffe: 40
+
 nodefabric: 44
+
 nodeffmpeg: 39
+
 nodemailer-js: 40
+
 nodemailer.js: 39
+
 nodemssql: 44
+
 noderequest: 40
+
 nodesass: 66
+
 nodesqlite: 45
+
 opencv.js: 40
+
 openssl.js: 43
+
 proxy.js: 43
+
 shadowsock: 40
+
 smb: 40
+
 sqlite.js: 48
+
 sqliter: 45
+
 sqlserver: 50
+
 tkinter: 45
+
