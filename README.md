@@ -16,8 +16,7 @@ the application is developed for pythin 3.*
 
 List of example "fake" js packages:
 
-babelcli: 42
-
+babelcli: 42   -    
 cross-env.js: 43   -    
 crossenv: 679   -    
 d3.js: 72   -    
