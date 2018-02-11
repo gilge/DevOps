@@ -14,7 +14,7 @@ the application is developed for pythin 3.*
 
 
 
-List of example "fake" js packages:
+List of example "fake" NPM packages:
 
 babelcli: 42   -   
 cross-env.js: 43   -   
