@@ -1,4 +1,4 @@
-# JavaScript NPM validateion - Security
+# JavaScript NPM validation - Security
 
 Many JavaScript developers are using NPM (Node Package Manager); since NPM include public packages that can be uploaded by any user, it becomes a secrity risk.
 
